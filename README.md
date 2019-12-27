@@ -1,5 +1,5 @@
 # Plugin - Tableau
-This plugin provides tableau online/ server interactions.
+This Airflow plugin provides tableau online/ server interactions.
 
 ## Getting Started
 ### Installation
