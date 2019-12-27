@@ -1,6 +1,4 @@
-from airflow.exceptions import AirflowException
 from airflow.models import BaseOperator
-from airflow.utils.decorators import apply_defaults
 
 from tableau_plugin.hooks.tableau import TableauHook
 
