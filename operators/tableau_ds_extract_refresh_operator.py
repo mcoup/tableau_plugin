@@ -9,8 +9,8 @@ class TableauDSExtractRefreshOperator(BaseOperator):
     """
     Tableau Datasource Extract Refresh Operator.
 
-    :param tableau_conn_id:           The input tableau connection id.
-    :type tableau_conn_id:            str
+    :param tableau_conn_id:   The input tableau connection id.
+    :type tableau_conn_id:    str
     :param datasource_name:   The name, including whitepaces, of the tableau datasource.
     :type datasource_name:    str
     """
